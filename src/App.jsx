@@ -714,7 +714,7 @@ export default function App() {
                                 New Town, Kolkata, West Bengal 700156
                             </p>
                             <p className="venue-note">
-                                Located near major hubs, with ample parking and modern community spaces. Join us to bless the happy couple!
+                                Located near Biswa Bangla Gate, with ample parking and modern community spaces. Join us to bless the happy couple!
                             </p>
                             <a 
                                 href="https://maps.google.com/?q=NKDA+Community+Centre" 
