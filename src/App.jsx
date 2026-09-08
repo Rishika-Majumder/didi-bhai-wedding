@@ -474,7 +474,7 @@ export default function App() {
         <>
             {/* Audio Node */}
             <audio ref={audioRef} loop>
-                <source src="/assets/mast_magan_musical.mp3" type="audio/mpeg" />
+                <source src="/assets/Rabba_Main_Toh_Mar_Gaya_Instrumental.mp3" type="audio/mpeg" />
             </audio>
 
             {/* Canvas overlay for falling petals */}
@@ -547,7 +547,7 @@ export default function App() {
                         <div className="parent-host">
                             <span className="shree">|| শুভ পরিণয় ||</span>
                             <p className="hosting-text-new">
-                                We cordially invite you to witness the beginning of our forever and celebrate the wedding ceremony of
+                                We cordially invite you to join us in celebrating the union of two hearts and witnessing the wedding ceremony of
                             </p>
                         </div>
 
