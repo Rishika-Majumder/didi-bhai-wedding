@@ -748,7 +748,7 @@ export default function App() {
                     <div className="footer-couple-photo">
                         <img src="/assets/footer-couple.jpeg" alt="Srishti and Manjit" className="footer-couple-img" />
                     </div>
-                    <p className="copyright">Designed with love by Titli for Didi Bhai and Jiju.</p>
+                    <p className="copyright">Designed with love by <span className="titli-name">Titli</span> for Didi Bhai and Jiju.</p>
                     <p className="contact-info">
                         For inquiries, please contact: <br />
                         Rupam Sur: +91 80084 44401 <br />

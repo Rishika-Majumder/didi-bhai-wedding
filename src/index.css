@@ -12,7 +12,8 @@
     --cream: #E8DCC8;           /* Champagne / Secondary Card background */
     --ivory: #F7F1E8;           /* Ivory / Warm Cream Background */
     --dark: #6F5243;            /* Normal Text: Milk Chocolate Brown */
-    --gray: #8B7062;            /* Warm Chocolate Gray */
+    --gray: #8B7062; 
+    --white: #FFFFFF;
     --white-glass: rgba(255, 255, 255, 0.88);
     --gold-glass: rgba(141, 155, 131, 0.05);
     
@@ -1923,14 +1924,19 @@ canvas#petals-canvas {
     font-size: 1.2rem;
     letter-spacing: 1px;
     color: var(--gold-light);
-    opacity: 0.7;
+    opacity: 1;
+}
+
+.main-footer .titli-name {
+    color: var(--ivory);
+    font-weight: 500;
 }
 
 .contact-info {
     margin-top: 15px;
     font-size: 0.9rem;
     color: var(--ivory);
-    opacity: 0.8;
+    opacity: 1;
 }
 
 /* ==========================================================================
